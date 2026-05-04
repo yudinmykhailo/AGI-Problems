@@ -44,7 +44,7 @@ Chris Olah in a series of “Circuits” works showed that in visual models, spe
 **Activation Patching** - a method for determining the causal role of specific activations in a prediction.
 
 ---
-	## Key persons and works
+## Key persons and works
 
 - **Chris Olah** - Circuits, founder of Mechanistic Interpretability
 - **Anthropic Interpretability Team** - scaling MI to large models
