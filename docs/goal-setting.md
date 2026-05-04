@@ -42,13 +42,13 @@ Ben Goertzel (OpenCog) proposes architectures with explicit motivational subsyst
 ---
 ## Key persons and works
 
-- **Jürgen Schmidhuber** — formal theory of curiosity, Gödel Machine.
+- **Jürgen Schmidhuber** - formal theory of curiosity, Gödel Machine.
   [Formal Theory of Creativity, Fun, and Intrinsic Motivation](https://ieeexplore.ieee.org/document/5508364)
-- **Joscha Bach** — MicroPsi, cognitive architectures with motivational subsystems.
+- **Joscha Bach** - MicroPsi, cognitive architectures with motivational subsystems.
   [Principles of Synthetic Intelligence (book)](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195370676.001.0001/acprof-9780195370676)
-- **Ben Goertzel** — OpenCog, AGI with explicit goal structures.
+- **Ben Goertzel** - OpenCog, AGI with explicit goal structures.
   [The OpenCog Framework](https://arxiv.org/abs/1310.3455)
-- **Eliezer Yudkowsky** — orthogonality thesis, goal stability.
+- **Eliezer Yudkowsky** - orthogonality thesis, goal stability.
   [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
 
 ---

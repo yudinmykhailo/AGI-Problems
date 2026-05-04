@@ -1,20 +1,20 @@
 # Contributing to AGI Problems
 
 Thank you for your interest in contributing! This repository aims to be a
-rigorous, well-sourced reference on fundamental barriers to AGI — not a
+rigorous, well-sourced reference on fundamental barriers to AGI - not a
 collection of opinions or speculation.
 
 ---
 ## What belongs here
 
 A problem belongs in this repository if it meets **all three** criteria:
-1. **Fundamental** — it is a structural barrier, not an engineering detail.
+1. **Fundamental** - it is a structural barrier, not an engineering detail.
    The problem cannot be solved simply by more compute, more data, or better
    software engineering.
-2. **Unsolved or actively researched** — there is no consensus solution as of
+2. **Unsolved or actively researched** - there is no consensus solution as of
    the current date. Problems that have been convincingly solved should be
    noted as such, not removed.
-3. **Has serious academic or research attention** — there are published papers,
+3. **Has serious academic or research attention** - there are published papers,
    named researchers, or active research programs addressing it.
 
 ---
@@ -74,11 +74,11 @@ Every problem page must follow this structure:
 ---
 ## Key Figures and Works
 
-- **Name** — role/contribution.
+- **Name** - role/contribution.
   [Paper or book title](URL)
 
 ---
 ## Related Problems
 
-- [Problem Name](filename.md) — one sentence on the connection
+- [Problem Name](filename.md) - one sentence on the connection
 ```

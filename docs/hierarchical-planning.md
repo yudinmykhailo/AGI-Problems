@@ -9,7 +9,7 @@
 ## The Problem
 
 The ability to plan actions over vast time horizons is one of the most distinctive
-features of human intelligence. A person can hold a goal for years — "finish a
+features of human intelligence. A person can hold a goal for years - "finish a
 PhD", "build a company", "raise a child" - while continuously decomposing it into
 sub-goals, adjusting plans, and executing millions of low-level actions without
 losing sight of the larger objective.

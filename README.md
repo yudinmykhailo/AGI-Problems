@@ -1,7 +1,7 @@
 # Problems on the Path to AGI
 
 > A structured reference on fundamental barriers to Artificial General
-> Intelligence — from engineering constraints to philosophical unknowns.
+> Intelligence - from engineering constraints to philosophical unknowns.
 
 This repository describes **19 unsolved problems** that must be addressed before AGI becomes possible. Each problem has its own page with: what it is, why it is a *fundamental* barrier (not just an engineering challenge), current research approaches, key figures with links to their work, and connections to related problems.
 
@@ -20,27 +20,27 @@ This repository describes **19 unsolved problems** that must be addressed before
 
 Engineering and architectural limitations of current AI systems.
 
-| Problem | Description | Status |
+| Problem | Description                                                                                                                      | Status |
 |---------|-------------|--------|
-| [Emotions as an Evaluation System](docs/emotions-as-evaluation.md) | No sense of importance or danger — cannot intuitively filter wrong decisions. Goodhart's Law makes proxy metrics unreliable. | 🔴 Unsolved |
-| [Energy Efficiency](docs/energy-efficiency.md) | Massive energy costs vs. the brain's 20W. Exponential compute for linear capability gains. | 🟡 Partial |
-| [Long-Term Memory](docs/long-term-memory.md) | Catastrophic forgetting when learning new things. No episodic memory — no personal history. | 🔴 Unsolved |
+| [Emotions as an Evaluation System](docs/emotions-as-evaluation.md) | No sense of importance or danger - cannot intuitively filter wrong decisions. Goodhart's Law makes proxy metrics unreliable.     | 🔴 Unsolved |
+| [Energy Efficiency](docs/energy-efficiency.md) | Massive energy costs vs. the brain's 20W. Exponential compute for linear capability gains.                                       | 🟡 Partial |
+| [Long-Term Memory](docs/long-term-memory.md) | Catastrophic forgetting when learning new things. No episodic memory - no personal history.                                      | 🔴 Unsolved |
 | [Embodied Intelligence](docs/embodied-intelligence.md) | No understanding of the physical world. Symbol Grounding Problem: symbols without sensorimotor experience have no real referent. | 🔴 Unsolved |
-| [Robustness](docs/robustness.md) | Catastrophic failure under minimal deviation from training distribution. A 1% change can break the system. | 🟡 Active |
+| [Robustness](docs/robustness.md) | Catastrophic failure under minimal deviation from training distribution. A 1% change can break the system.                       | 🟡 Active |
 
 ---
 ## 🧩 Cognitive
 
 Fundamental gaps between machine and human thinking.
 
-| Problem | Description | Status |
+| Problem | Description                                                                                                              | Status |
 |---------|-------------|--------|
-| [Meta-Learning](docs/meta-learning.md) | Humans learn from 2–3 examples; AI needs millions. The limitation is in the learning algorithm itself. | 🟡 Active |
-| [Theory of Mind](docs/theory-of-mind.md) | Sees actions but doesn't understand motives or intentions. Cannot grasp collective unwritten norms. | 🔴 Unsolved |
-| [Causal Reasoning](docs/causal-reasoning.md) | Relies on statistics without understanding "why." Missing abductive reasoning — forming hypotheses from incomplete data. | 🟡 Active |
-| [Compositional Generalization](docs/compositional-generalization.md) | Cannot reliably combine familiar concepts in new configurations. Matches patterns rather than composes rules. | 🔴 Unsolved |
-| [Common Sense](docs/common-sense.md) | No tacit foundation of world knowledge. Cannot be fixed by more data — common sense is never written down. | 🔴 Unsolved |
-| [Hierarchical Planning](docs/hierarchical-planning.md) | Cannot hold and pursue goals over long time horizons. Loses the objective as planning depth increases. | 🔴 Unsolved |
+| [Meta-Learning](docs/meta-learning.md) | Humans learn from 2–3 examples; AI needs millions. The limitation is in the learning algorithm itself.                   | 🟡 Active |
+| [Theory of Mind](docs/theory-of-mind.md) | Sees actions but doesn't understand motives or intentions. Cannot grasp collective unwritten norms.                      | 🔴 Unsolved |
+| [Causal Reasoning](docs/causal-reasoning.md) | Relies on statistics without understanding "why." Missing abductive reasoning - forming hypotheses from incomplete data. | 🟡 Active |
+| [Compositional Generalization](docs/compositional-generalization.md) | Cannot reliably combine familiar concepts in new configurations. Matches patterns rather than composes rules.            | 🔴 Unsolved |
+| [Common Sense](docs/common-sense.md) | No tacit foundation of world knowledge. Cannot be fixed by more data - common sense is never written down.               | 🔴 Unsolved |
+| [Hierarchical Planning](docs/hierarchical-planning.md) | Cannot hold and pursue goals over long time horizons. Loses the objective as planning depth increases.                   | 🔴 Unsolved |
 
 ---
 ## 🔗 Systemic
@@ -69,12 +69,12 @@ Conceptual barriers that cannot be resolved by engineering alone.
 ---
 ## Status legend
 
-| Badge | Meaning |
+| Badge | Meaning                                              |
 |-------|---------|
-| 🔴 Unsolved | No convincing solution or clear path to one |
+| 🔴 Unsolved | No convincing solution or clear path to one          |
 | 🟠 Theoretical | Formal frameworks exist; no practical implementation |
-| 🟡 Active | Actively researched; partial results exist |
-| 🔴 Open | Philosophical — may not have an empirical solution |
+| 🟡 Active | Actively researched; partial results exist           |
+| 🔴 Open | Philosophical - may not have an empirical solution   |
 
 ---
 ## Contributing

@@ -40,13 +40,13 @@ The psychological test for Theory of Mind is the Sally-Ann task: a child under 4
 ---
 ## Key persons and works
 
-- **Rosalind Picard** — Affective Computing, MIT Media Lab.
+- **Rosalind Picard** - Affective Computing, MIT Media Lab.
   [Affective Computing (book)](https://mitpress.mit.edu/9780262661157/affective-computing/)
-- **John McCarthy** — formalization of the Frame Problem.
+- **John McCarthy** - formalization of the Frame Problem.
   [Some Philosophical Problems from the Standpoint of Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/B9780934613033500276)
-- **Annette Karmiloff-Smith** — neurodevelopmental foundations of Theory of Mind.
+- **Annette Karmiloff-Smith** - neurodevelopmental foundations of Theory of Mind.
   [Beyond Modularity: A Developmental Perspective on Cognitive Science](https://mitpress.mit.edu/9780262611312/beyond-modularity/)
-- **Anthropic team** — Constitutional AI and social alignment.
+- **Anthropic team** - Constitutional AI and social alignment.
   [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 
 ---

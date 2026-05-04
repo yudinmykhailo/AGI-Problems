@@ -42,13 +42,13 @@ Yann LeCun points out that the solution likely lies in learning through physical
 ---
 ## Key persons and works
 
-- **Doug Lenat** — founder of the Cyc project, 33 years of common-sense encoding.
+- **Doug Lenat** - founder of the Cyc project, 33 years of common-sense encoding.
   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://dl.acm.org/doi/10.1145/219717.219745)
-- **Yann LeCun** — critic of language models, world models advocate.
+- **Yann LeCun** - critic of language models, world models advocate.
   [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5aUm_I9_H)
-- **Gary Marcus** — systematic critique of LLM limitations.
+- **Gary Marcus** - systematic critique of LLM limitations.
   [Rebooting AI (book)](https://www.penguinrandomhouse.com/books/603982/rebooting-ai-by-gary-marcus-and-ernest-davis/)
-- **Ernest Davis** — formalization of common sense and physical knowledge.
+- **Ernest Davis** - formalization of common sense and physical knowledge.
   [Commonsense Reasoning (book)](https://www.morganclaypool.com/doi/abs/10.2200/S00105ED1V01Y200805AIM003)
 
 ---

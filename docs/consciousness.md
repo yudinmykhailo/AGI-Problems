@@ -50,15 +50,15 @@ The honest answer: not yet - in terms of a solution. Theoretical work is ongoing
 ---
 ## Key persons and works
 
-- **David Chalmers** — the Hard Problem of Consciousness.
+- **David Chalmers** - the Hard Problem of Consciousness.
   [Facing Up to the Problem of Consciousness](https://consc.net/papers/facing.html)
-- **Giulio Tononi** — Integrated Information Theory (IIT).
+- **Giulio Tononi** - Integrated Information Theory (IIT).
   [Consciousness as Integrated Information](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588)
-- **Christof Koch** — neuroscience of consciousness, Neural Correlates of Consciousness.
+- **Christof Koch** - neuroscience of consciousness, Neural Correlates of Consciousness.
   [The Feeling of Life Itself (book)](https://mitpress.mit.edu/9780262042819/the-feeling-of-life-itself/)
-- **Daniel Dennett** — opponent: denies the Hard Problem as a pseudo-problem.
+- **Daniel Dennett** - opponent: denies the Hard Problem as a pseudo-problem.
   [Consciousness Explained (book)](https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661)
-- **John Searle** — Chinese Room argument, biological naturalism.
+- **John Searle** - Chinese Room argument, biological naturalism.
   [Minds, Brains, and Programs](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A)
 
 ---

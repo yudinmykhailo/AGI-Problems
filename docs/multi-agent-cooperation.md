@@ -24,7 +24,7 @@ problems.
 **Non-stationarity**: in a multi-agent environment, the "rules of the game" change
 continuously as other agents adapt. A learning algorithm that works perfectly
 against a fixed environment can fail completely when the environment includes
-adaptive agents — because their strategy changes in response to your strategy.
+adaptive agents - because their strategy changes in response to your strategy.
 
 **Emergent coordination failures**: even agents with individually rational,
 well-aligned goals can produce collectively bad outcomes through strategic

@@ -42,11 +42,11 @@ Biologically, the hippocampus is responsible for memory consolidation: it “rep
 ---
 ## Key persons and works
 
-- **Demis Hassabis** — founder of DeepMind, neuroscience of memory and AGI.
+- **Demis Hassabis** - founder of DeepMind, neuroscience of memory and AGI.
   [Neuroscience-Inspired Artificial Intelligence](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
-- **Ilya Sutskever** — architectures with long-term memory, scaling laws.
+- **Ilya Sutskever** - architectures with long-term memory, scaling laws.
   [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
-- **Geoffrey Hinton** — complementary learning systems, memory consolidation.
+- **Geoffrey Hinton** - complementary learning systems, memory consolidation.
   [Why the brain separates face recognition from object recognition](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(12)00108-5)
 
 ---

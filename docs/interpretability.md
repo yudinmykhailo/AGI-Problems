@@ -46,13 +46,13 @@ Chris Olah in a series of “Circuits” works showed that in visual models, spe
 ---
 ## Key persons and works
 
-- **Chris Olah** — Circuits thread, founder of mechanistic interpretability.
+- **Chris Olah** - Circuits thread, founder of mechanistic interpretability.
   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/)
-- **Anthropic Interpretability Team** — scaling mechanistic interpretability.
+- **Anthropic Interpretability Team** - scaling mechanistic interpretability.
   [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
-- **Scott Lundberg** — SHAP values, model explanation.
+- **Scott Lundberg** - SHAP values, model explanation.
   [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
-- **Been Kim** — TCAV, concept-based explanations.
+- **Been Kim** - TCAV, concept-based explanations.
   [Interpretability Beyond Classification Output](https://arxiv.org/abs/1711.11279)
 
 ---
