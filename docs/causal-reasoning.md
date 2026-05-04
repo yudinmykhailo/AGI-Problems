@@ -44,10 +44,14 @@ Yoshua Bengio argues that the next breakthrough in AI will require integrating c
 ---
 ## Key persons and works
 
-- **Judea Pearl** - author of do-calculus, Turing Award 2011
-- **Yoshua Bengio** - integration of causality into neural networks
-- **Bernhard Schölkopf** - causal representation in machine learning
-- **Elias Bareinboim** - transportability of causal inferences
+- **Judea Pearl** — do-calculus, Turing Award 2011.
+  [The Book of Why](http://bayes.cs.ucla.edu/WHY/)
+- **Yoshua Bengio** — integration of causality into neural networks.
+  [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107)
+- **Bernhard Schölkopf** — causal representation learning.
+  [Causality for Machine Learning](https://arxiv.org/abs/1911.10500)
+- **Elias Bareinboim** — transportability of causal inference.
+  [Causal Inference and the Data-Fusion Problem](https://www.pnas.org/doi/10.1073/pnas.1510507113)
 
 ---
 ## Related problems

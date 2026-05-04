@@ -44,10 +44,14 @@ Yann LeCun argues that the next frontier after self-supervised learning should b
 ---
 ## Key persons and works
 
-- **Chelsea Finn** - MAML, founder of modern meta-learning
-- **Yann LeCun** - theorist of sample-efficient learning
-- **Josh Tenenbaum** - cognitive foundations of meta-learning in humans
-- **Oriol Vinyals** - Matching Networks, work at DeepMind
+- **Chelsea Finn** — MAML, pioneer of modern meta-learning.
+  [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+- **Yann LeCun** — theorist of sample-efficient learning.
+  [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5aUm_I9_H)
+- **Josh Tenenbaum** — cognitive foundations of meta-learning.
+  [How to Grow a Mind: Statistics, Structure, and Abstraction](https://www.science.org/doi/10.1126/science.1192788)
+- **Oriol Vinyals** — Matching Networks, few-shot learning at DeepMind.
+  [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
 
 ---
 ## Related problems

@@ -40,10 +40,14 @@ Sergey Levine (UC Berkeley) shows in robotics experiments that agents with physi
 ---
 ## Key persons and works
 
-- **Yann LeCun** - author of world models concept, critic of purely linguistic approaches
-- **Sergey Levine** - robotics and reinforcement learning in physical agents
-- **Stevan Harnad** - author of the Symbol Grounding Problem
-- **Rodney Brooks** - pioneer of embodied AI, critic of GOFAI
+- **Yann LeCun** — world models, critic of purely language-based approaches.
+  [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5aUm_I9_H)
+- **Sergey Levine** — robotics and reinforcement learning in physical agents.
+  [Learning Hand-Eye Coordination for Robotic Grasping](https://arxiv.org/abs/1603.02199)
+- **Stevan Harnad** — Symbol Grounding Problem.
+  [The Symbol Grounding Problem](https://www.sciencedirect.com/science/article/abs/pii/0167278990900875)
+- **Rodney Brooks** — pioneer of embodied AI, subsumption architecture.
+  [Intelligence Without Representation](https://www.sciencedirect.com/science/article/abs/pii/0004370291900530)
 
 ---
 ## Related problems

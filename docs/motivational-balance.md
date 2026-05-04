@@ -45,10 +45,14 @@ Stuart Russell in “Human Compatible AI” proposes rethinking the foundation: 
 ---
 ## Key persons and works
 
-- **Stuart Russell** - concept of Human-Compatible AI. [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-Control/dp/0525558616)
-- **Nick Bostrom** - theory of instrumental convergence. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Paths-Dangers-Strategies-Bostrom/dp/0199678111)
-- **Evan Hubinger** - risks of learned optimization. [Risks from Learned Optimization in Advanced ML Systems](https://arxiv.org/abs/1906.01820)
-- **Eliezer Yudkowsky** - early work on AI alignment. [AI as a Positive and Negative Factor in Global Risk](https://intelligence.org/files/AIPosNegFactor.pdf)
+- **Stuart Russell** — Human-Compatible AI, CIRL framework.
+  [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)
+- **Nick Bostrom** — instrumental convergence, existential risk.
+  [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111)
+- **Eliezer Yudkowsky** — early AI alignment research, orthogonality thesis.
+  [Intelligence Explosion Microeconomics](https://intelligence.org/files/IEM.pdf)
+- **Steve Omohundro** — formalization of basic AI drives.
+  [The Basic AI Drives](https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)
 
 ---
 ## Related problems

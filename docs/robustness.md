@@ -42,11 +42,12 @@ The deep cause of fragility is that neural networks learn to use non-representat
 ---
 ## Key persons and works
 
-- **Ian Goodfellow** - discovery of adversarial examples
-- **Nicholas Carlini** - attacks and defenses, robustness metrics
-- **DeepMind and MIT teams** - certified robustness
-- **Bernhard Schölkopf** - causal approaches to robustness
-
+- **Ian Goodfellow** — discovery of adversarial examples.
+  [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+- **Nicholas Carlini** — attacks, defenses, and robustness metrics.
+  [Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
+- **Bernhard Schölkopf** — causal approaches to robustness.
+  [Toward Causal Representation Learning](https://arxiv.org/abs/2102.11107)
 ---
 ## Related problems
 

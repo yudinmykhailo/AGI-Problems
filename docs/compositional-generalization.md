@@ -42,10 +42,14 @@ Gary Marcus systematically criticizes deep learning precisely for its inability 
 ---
 ## Key persons and works
 
-- **Gary Marcus** - critique of deep learning, neuro-symbolic approaches
-- **Brendan Lake** - SCAN benchmark, cognitive foundations of generalization
-- **Daphne Koller** - probabilistic graphical models and generalization
-- **Josh Tenenbaum** - program synthesis, DreamCoder
+- **Gary Marcus** — critic of deep learning, advocate of neural-symbolic approaches.
+  [The Algebraic Mind](https://mitpress.mit.edu/9780262632683/the-algebraic-mind/)
+- **Brendan Lake** — SCAN benchmark, cognitive foundations of generalization.
+  [Generalization without Systematicity (SCAN)](https://arxiv.org/abs/1711.00350)
+- **Daphne Koller** — probabilistic graphical models and generalization.
+  [Probabilistic Graphical Models (book)](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/)
+- **Josh Tenenbaum** — program synthesis, DreamCoder.
+  [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30174-1)
 
 ---
 ## Related problems
