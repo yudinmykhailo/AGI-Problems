@@ -15,7 +15,7 @@ AGI will act in a world inhabited by other agents (humans and other AIs). It nee
 A solitary intelligence, even superhuman, can be socially destructive. Without mechanisms for cooperation and understanding of collective benefit, the emergence of multiple AGIs could lead to catastrophic scenarios of “arms races” or game traps (like the Prisoner’s Dilemma).
 
 ---
-## Key figures and works
+## Key persons and works
 
 - **Allan Dafoe** - research on cooperative AI. [Open Problems in Cooperative AI](https://arxiv.org/abs/2012.08630)  
 - **DeepMind team** - experiments on multi-agent interaction in game environments.

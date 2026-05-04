@@ -42,7 +42,7 @@ Yann LeCun argues that the next frontier after self-supervised learning should b
 **In-context learning (LLM)** - GPT-4 and similar models demonstrate impressive few-shot behavior directly in context, without updating weights. Whether this is true meta-learning is a debated question.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Chelsea Finn** - MAML, founder of modern meta-learning
 - **Yann LeCun** - theorist of sample-efficient learning

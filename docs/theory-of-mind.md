@@ -38,7 +38,7 @@ The psychological test for Theory of Mind is the Sally-Ann task: a child under 4
 **Simulation of social environments** - training agents in multi-agent environments where they need to model the behavior of other agents.
 
 ---
-## Key figures
+## Key persons and works
 
 - **The Anthropic team** - Constitutional AI and social alignment
 - **Rosalind Picard** - Affective Computing, MIT Media Lab

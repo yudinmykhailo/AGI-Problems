@@ -40,7 +40,7 @@ Biological neurons work differently: they are silent most of the time and only â
 **Quantization and distillation** - compressing the model with minimal loss of quality to reduce hardware requirements during inference.
 
 ---
-## Key figures and works
+## Key persons and works
 
 - **Intel team (Loihi)** - next-generation neuromorphic chips. [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-brief.html)
 - **IBM team (NorthPole)** - architecture without separation of memory and computation. [IBM NorthPole Research](https://research.ibm.com/blog/northpole-ibm-ai-chip)

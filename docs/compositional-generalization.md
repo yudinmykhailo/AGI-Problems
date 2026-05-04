@@ -40,7 +40,7 @@ Gary Marcus systematically criticizes deep learning precisely for its inability 
 **Program synthesis** - learning to generate programs, not numerical answers. Programs are compositional by definition.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Gary Marcus** - critique of deep learning, neuro-symbolic approaches
 - **Brendan Lake** - SCAN benchmark, cognitive foundations of generalization

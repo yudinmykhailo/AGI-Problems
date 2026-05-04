@@ -40,7 +40,7 @@ Ben Goertzel (OpenCog) proposes architectures with explicit motivational subsyst
 **Open-ended learning** - environments and algorithms that support infinite discovery of new skills (POET, Gato + open-ended training).
 
 ---
-## Key figures
+## Key persons and works
 
 - **Jürgen Schmidhuber** - formal theory of curiosity, Gödel Machine
 - **Joscha Bach** - MicroPsi, architectures with motivational subsystems

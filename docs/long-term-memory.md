@@ -40,7 +40,7 @@ Biologically, the hippocampus is responsible for memory consolidation: it “rep
 **Memory-Augmented Neural Networks** - architectures with external differentiable memory (Neural Turing Machine, DNC from DeepMind).
 
 ---
-## Key figures
+## Key persons and works
 
 - **Demis Hassabis** - founder of DeepMind, researcher of memory neurobiology
 - **Ilya Sutskever** - work on architectures with long-term memory

@@ -38,7 +38,7 @@ Sergey Levine (UC Berkeley) shows in robotics experiments that agents with physi
 **World Models (LeCun)** - learning an internal predictive model of the world’s physics without explicitly programming the laws.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Yann LeCun** - author of world models concept, critic of purely linguistic approaches
 - **Sergey Levine** - robotics and reinforcement learning in physical agents

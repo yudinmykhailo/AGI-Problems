@@ -21,7 +21,7 @@ Without hierarchical planning, AGI will not be able to realize complex multi-yea
 **Hierarchical Reinforcement Learning (HRL)** - architectures with a “manager” (sets goals) and a “worker” (executes primitives).
 
 ---
-## Key figures and works
+## Key persons and works
 
 - **Richard Sutton** - founder of reinforcement learning. [Between MDPs and semi-MDPs: A framework for temporal abstraction](https://www.sciencedirect.com/science/article/pii/S0004370299000446)  
 - **David Silver** - work at DeepMind on deep planning.

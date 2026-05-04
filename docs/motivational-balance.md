@@ -43,7 +43,7 @@ Stuart Russell in “Human Compatible AI” proposes rethinking the foundation: 
 **Corrigibility** - the property of a system not to resist correction and shutdown. Actively researched at MIRI and Anthropic.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Stuart Russell** - concept of Human-Compatible AI. [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-Control/dp/0525558616)
 - **Nick Bostrom** - theory of instrumental convergence. [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Paths-Dangers-Strategies-Bostrom/dp/0199678111)

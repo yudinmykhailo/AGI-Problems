@@ -40,7 +40,7 @@ Yann LeCun points out that the solution likely lies in learning through physical
 **Multimodal learning** - integrating video, physical simulations, and text to form a more complete world model.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Douglas Lenat** - founder of the Cyc project
 - **Yann LeCun** - critic of language models, proponent of world models

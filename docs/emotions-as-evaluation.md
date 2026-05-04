@@ -36,7 +36,7 @@ Antonio Damasio in “Descartes’ Error” showed through clinical cases that p
 **Constitutional AI (Anthropic)** - an attempt to embed value filtering at the training level so that the system rejects “unpleasant” options without fully computing them.
 
 ---
-## Key figures and works
+## Key persons and works
 
 - **Antonio Damasio** - neuroscientist, author of the somatic marker theory. [Descartes' Error](https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X)
 - **Pei Wang** - creator of NARS, AGI theorist. [Non-Axiomatic Reasoning System](https://cis.temple.edu/~pwang/nars.html)

@@ -42,7 +42,7 @@ Yoshua Bengio argues that the next breakthrough in AI will require integrating c
 **Interventional training** - training models on data with explicit interventions, not just observations.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Judea Pearl** - author of do-calculus, Turing Award 2011
 - **Yoshua Bengio** - integration of causality into neural networks

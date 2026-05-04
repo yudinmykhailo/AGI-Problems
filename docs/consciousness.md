@@ -48,7 +48,7 @@ The honest answer: not yet - in terms of a solution. Theoretical work is ongoing
 **Neurobiological markers** - searching for correlates of consciousness in the brain (NCC) with the goal of later applying criteria to AI systems.
 
 ---
-## Key figures
+## Key persons and works
 
 - **David Chalmers** - the “hard problem,” philosophy of mind
 - **Giulio Tononi** - Integrated Information Theory (IIT)

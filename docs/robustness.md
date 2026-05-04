@@ -40,7 +40,7 @@ The deep cause of fragility is that neural networks learn to use non-representat
 **Causal representation learning** - learning causal rather than correlational features. Theoretically should eliminate spurious correlations.
 
 ---
-## Key figures
+## Key persons and works
 
 - **Ian Goodfellow** - discovery of adversarial examples
 - **Nicholas Carlini** - attacks and defenses, robustness metrics
