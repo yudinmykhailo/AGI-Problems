@@ -50,6 +50,6 @@ Yann LeCun points out that the solution likely lies in learning through physical
 ---
 ## Related problems
 
-- [Embodied intelligence](04-embodied-intelligence.md) - physical experience as a source of common sense
-- [Robustness](05-robustness.md) - common sense as a mechanism for checking plausibility
-- [Compositional generalization](09-compositional-generalization.md) - applying rules to new situations
+- [Embodied intelligence](embodied-intelligence.md) - physical experience as a source of common sense
+- [Robustness](robustness.md) - common sense as a mechanism for checking plausibility
+- [Compositional generalization](compositional-generalization.md) - applying rules to new situations

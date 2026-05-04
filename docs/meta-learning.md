@@ -52,6 +52,6 @@ Yann LeCun argues that the next frontier after self-supervised learning should b
 ---
 ## Related problems
 
-- [Long-term memory](03-long-term-memory.md) - using past experience for fast learning
-- [Embodied intelligence](04-embodied-intelligence.md) - learning through interaction
-- [Common sense](10-common-sense.md) - prior knowledge accelerates learning
+- [Long-term memory](long-term-memory.md) - using past experience for fast learning
+- [Embodied intelligence](embodied-intelligence.md) - learning through interaction
+- [Common sense](common-sense.md) - prior knowledge accelerates learning

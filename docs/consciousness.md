@@ -59,6 +59,6 @@ The honest answer: not yet - in terms of a solution. Theoretical work is ongoing
 ---
 ## Related problems
 
-- [Interpretability](13-interpretability.md) - a necessary condition for detecting consciousness
-- [Motivational balance](11-motivational-balance.md) - moral status of a conscious system
-- [Emotions as evaluation](01-emotions-as-evaluation.md) - can emotions exist without subjective experience
+- [Interpretability](interpretability.md) - a necessary condition for detecting consciousness
+- [Motivational balance](motivational-balance.md) - moral status of a conscious system
+- [Emotions as evaluation](emotions-as-evaluation.md) - can emotions exist without subjective experience

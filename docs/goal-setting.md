@@ -50,6 +50,6 @@ Ben Goertzel (OpenCog) proposes architectures with explicit motivational subsyst
 ---
 ## Related problems
 
-- [Motivational balance](11-motivational-balance.md) - what the embedded goals should be
-- [Long-term memory](03-long-term-memory.md) - autonomy requires memory of its own actions
-- [Interpretability](13-interpretability.md) - how to verify that the system’s goals are what we expect
+- [Motivational balance](motivational-balance.md) - what the embedded goals should be
+- [Long-term memory](long-term-memory.md) - autonomy requires memory of its own actions
+- [Interpretability](interpretability.md) - how to verify that the system’s goals are what we expect

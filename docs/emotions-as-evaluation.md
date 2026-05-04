@@ -45,6 +45,6 @@ Antonio Damasio in “Descartes’ Error” showed through clinical cases that p
 ---
 ## Related problems
 
-- [Motivational balance](11-motivational-balance.md) - emotions as a source of motivation
-- [Common sense](10-common-sense.md) - intuitive assessment of situations
-- [Consciousness and subjective experience](14-consciousness.md) - can AIs have “real” emotions
+- [Motivational balance](motivational-balance.md) - emotions as a source of motivation
+- [Common sense](common-sense.md) - intuitive assessment of situations
+- [Consciousness and subjective experience](consciousness.md) - can AIs have “real” emotions

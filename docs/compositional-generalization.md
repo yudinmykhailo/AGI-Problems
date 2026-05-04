@@ -50,6 +50,6 @@ Gary Marcus systematically criticizes deep learning precisely for its inability 
 ---
 ## Related problems
 
-- [Causal reasoning](08-causal-reasoning.md) - causal reasoning requires compositionality
-- [Common sense](10-common-sense.md) - applying rules to new situations
-- [Meta-learning](06-meta-learning.md) - fast generalization from few examples
+- [Causal reasoning](causal-reasoning.md) - causal reasoning requires compositionality
+- [Common sense](common-sense.md) - applying rules to new situations
+- [Meta-learning](meta-learning.md) - fast generalization from few examples

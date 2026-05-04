@@ -48,6 +48,6 @@ The psychological test for Theory of Mind is the Sally-Ann task: a child under 4
 ---
 ## Related problems
 
-- [Common sense](10-common-sense.md) - social norms as part of common sense
-- [Causal reasoning](08-causal-reasoning.md) - reasoning about intentions as causes of actions
-- [Consciousness](14-consciousness.md) - connection between self-awareness and understanding other minds
+- [Common sense](common-sense.md) - social norms as part of common sense
+- [Causal reasoning](causal-reasoning.md) - reasoning about intentions as causes of actions
+- [Consciousness](consciousness.md) - connection between self-awareness and understanding other minds

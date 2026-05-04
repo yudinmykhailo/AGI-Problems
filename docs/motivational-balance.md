@@ -53,6 +53,6 @@ Stuart Russell in “Human Compatible AI” proposes rethinking the foundation: 
 ---
 ## Related problems
 
-- [Autonomous goal setting](12-goal-setting.md) - stability of goals under self-improvement
-- [Interpretability](13-interpretability.md) - impossible to verify the balance without understanding internal states
-- [Consciousness](14-consciousness.md) - is self-preservation a sign of consciousness
+- [Autonomous goal setting](goal-setting.md) - stability of goals under self-improvement
+- [Interpretability](interpretability.md) - impossible to verify the balance without understanding internal states
+- [Consciousness](consciousness.md) - is self-preservation a sign of consciousness

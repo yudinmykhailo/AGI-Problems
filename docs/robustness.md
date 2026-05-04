@@ -50,6 +50,6 @@ The deep cause of fragility is that neural networks learn to use non-representat
 ---
 ## Related problems
 
-- [Causal reasoning](08-causal-reasoning.md) - causal features are more robust than correlational ones
-- [Common sense](10-common-sense.md) - intuitive plausibility checking of results
-- [Interpretability](13-interpretability.md) - understanding what features the model relies on
+- [Causal reasoning](causal-reasoning.md) - causal features are more robust than correlational ones
+- [Common sense](common-sense.md) - intuitive plausibility checking of results
+- [Interpretability](interpretability.md) - understanding what features the model relies on

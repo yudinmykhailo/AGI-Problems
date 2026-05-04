@@ -50,5 +50,5 @@ Biological neurons work differently: they are silent most of the time and only â
 ---
 ## Related problems
 
-- [Meta-learning](06-meta-learning.md) - efficiency of learning, not just inference
-- [Embodied intelligence](04-embodied-intelligence.md) - autonomous systems require low power consumption
+- [Meta-learning](meta-learning.md) - efficiency of learning, not just inference
+- [Embodied intelligence](embodied-intelligence.md) - autonomous systems require low power consumption

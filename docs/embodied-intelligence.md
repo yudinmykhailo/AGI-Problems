@@ -48,6 +48,6 @@ Sergey Levine (UC Berkeley) shows in robotics experiments that agents with physi
 ---
 ## Related problems
 
-- [Common sense](10-common-sense.md) - physical intuitions as part of common sense
-- [Long-term memory](03-long-term-memory.md) - sensory experience requires episodic memory
-- [Meta-learning](06-meta-learning.md) - learning through interaction
+- [Common sense](common-sense.md) - physical intuitions as part of common sense
+- [Long-term memory](long-term-memory.md) - sensory experience requires episodic memory
+- [Meta-learning](meta-learning.md) - learning through interaction

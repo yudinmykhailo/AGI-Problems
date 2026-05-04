@@ -52,6 +52,6 @@ Yoshua Bengio argues that the next breakthrough in AI will require integrating c
 ---
 ## Related problems
 
-- [Common sense](10-common-sense.md) - intuitive physics as a causal model of the world
-- [Robustness](05-robustness.md) - causal features are more robust than correlational ones
-- [Theory of Mind](07-theory-of-mind.md) - intentions as causes of actions
+- [Common sense](common-sense.md) - intuitive physics as a causal model of the world
+- [Robustness](robustness.md) - causal features are more robust than correlational ones
+- [Theory of Mind](theory-of-mind.md) - intentions as causes of actions

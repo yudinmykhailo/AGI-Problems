@@ -54,6 +54,6 @@ Chris Olah in a series of “Circuits” works showed that in visual models, spe
 ---
 ## Related problems
 
-- [Motivational balance](11-motivational-balance.md) - verification of embedded values
-- [Autonomous goal setting](12-goal-setting.md) - verification of the system’s goals
-- [Consciousness](14-consciousness.md) - interpretability as a necessary condition for detecting consciousness
+- [Motivational balance](motivational-balance.md) - verification of embedded values
+- [Autonomous goal setting](goal-setting.md) - verification of the system’s goals
+- [Consciousness](consciousness.md) - interpretability as a necessary condition for detecting consciousness

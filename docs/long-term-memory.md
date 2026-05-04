@@ -49,6 +49,6 @@ Biologically, the hippocampus is responsible for memory consolidation: it “rep
 ---
 ## Related problems
 
-- [Embodied intelligence](04-embodied-intelligence.md) - experience requires memory of episodes
-- [Autonomous goal setting](12-goal-setting.md) - autonomy requires accumulated experience
-- [Meta-learning](06-meta-learning.md) - learning without catastrophic forgetting
+- [Embodied intelligence](embodied-intelligence.md) - experience requires memory of episodes
+- [Autonomous goal setting](goal-setting.md) - autonomy requires accumulated experience
+- [Meta-learning](meta-learning.md) - learning without catastrophic forgetting
