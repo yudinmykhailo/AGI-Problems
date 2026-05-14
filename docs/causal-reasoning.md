@@ -25,6 +25,15 @@ AGI systems incapable of rising above the first level will make critical mistake
 
 **Abductive reasoning** - another missing layer. The ability to infer the most plausible hypothesis from incomplete data. This is how Sherlock Holmes works: from footprints on shoes to a biography. It is how a doctor diagnoses from symptoms. Current models struggle with this type of reasoning.
 
+**Example of AI’s failure to determine cause and effect: Asthma as a "protective factor"**
+
+A neural network trained to predict mortality risk in pneumonia patients learned a dangerous spurious correlation: patients with asthma had _lower_ predicted mortality than average. The model was technically correct on training data - asthmatic patients with pneumonia are hospitalized more aggressively and monitored more closely, so they actually die less often in the dataset. But the cause was the clinical protocol, not the disease itself.
+
+A model that learned causation would represent this correctly: asthma → aggressive treatment → lower mortality. A model that learned correlation concluded: asthma → lower risk → send home.
+
+When deployed, such a model would recommend _less_ intensive care for a high-risk group - precisely because it could not distinguish "Y follows X in the data" from "X causes Y."
+
+> Source: Caruana et al., "Intelligible Models for HealthCare" (KDD 2015) - the original case study from a real clinical risk prediction system.
 ---
 ## Additional context
 
