@@ -8,12 +8,12 @@ This repository describes **19 unsolved problems** that must be addressed before
 ---
 ## Categories
 
-| Category | Problems |
-|----------|:--------:|
-| 🔧 Technical | 5 |
-| 🧩 Cognitive | 6 |
-| 🔗 Systemic | 6 |
-| 🔮 Philosophical | 4 |
+| Category         | Problems |
+| ---------------- | :------: |
+| 🔧 Technical     |    5     |
+| 🧩 Cognitive     |    6     |
+| 🔗 Systemic      |    6     |
+| 🔮 Philosophical |    2     |
 
 ---
 ## 🔧 Technical
@@ -61,20 +61,20 @@ Problems in designing AGI motivation, goals, and multi-agent dynamics.
 
 Conceptual barriers that cannot be resolved by engineering alone.
 
-| Problem | Description | Status |
-|---------|-------------|--------|
+| Problem                                      | Description                                                                                                          | Status    |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Interpretability](docs/interpretability.md) | We cannot understand why a system makes a decision. Blocks value alignment verification, error diagnosis, and trust. | 🟡 Active |
-| [Consciousness](docs/consciousness.md) | Will AGI truly understand, or simulate understanding? The Hard Problem makes any test philosophically vulnerable. | 🔴 Open |
+| [Consciousness](docs/consciousness.md)       | Will AGI truly understand, or simulate understanding? The Hard Problem makes any test philosophically vulnerable.    | 🔴 Open   |
 
 ---
 ## Status legend
 
-| Badge | Meaning                                              |
-|-------|---------|
-| 🔴 Unsolved | No convincing solution or clear path to one          |
+| Badge          | Meaning                                              |
+| -------------- | ---------------------------------------------------- |
+| 🔴 Unsolved    | No convincing solution or clear path to one          |
 | 🟠 Theoretical | Formal frameworks exist; no practical implementation |
-| 🟡 Active | Actively researched; partial results exist           |
-| 🔴 Open | Philosophical - may not have an empirical solution   |
+| 🟡 Active      | Actively researched; partial results exist           |
+| 🔴 Open        | Philosophical - may not have an empirical solution   |
 
 ---
 ## Contributing
